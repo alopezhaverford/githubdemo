@@ -1,6 +1,5 @@
 title: Syllabus for SPAN 306
-description: my new syllabus
-
+description: Fall 2024
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
